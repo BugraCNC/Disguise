@@ -1,3 +1,3 @@
 # Disguise
-Disguise eklentisi BugraCNC tarafından kodlanmıştır, editlen!esi yasaktır m
+Disguise eklentisi BugraCNC tarafından kodlanmıştır, editlenmesi yasaktır!
 
